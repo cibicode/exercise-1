@@ -1,2 +1,3 @@
-Leader  : Stefan
-Staff  : 
+Leader  : Stefanus Syauta
+Staff  : vacant1
+Done.
