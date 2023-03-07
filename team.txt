@@ -1,3 +1,4 @@
 Leader  : Stefanus Syauta
-Staff  : vacant1
+Staff   : vacant1
+Info    :
 Done.
